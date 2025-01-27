@@ -159,8 +159,8 @@ def bandpass_filter(audio_data, sr, low_freq=150, high_freq=8000):
 # Example usage
 if __name__ == "__main__":
     # input_path = "dataset/Hirundo_rustica/BarnSwallow.mp3"
-    input_path = "/home/ste/Code/birds/dataset/Phoenicurus_ochruros/BlackRedstart17Feb2009TafraouteMorocco.mp3"
-    input_path = "/home/ste/Code/birds/dataset/Phoenicurus_ochruros/codirossospazzacamino7.mp3"
+    input_path = "/home/ste/Code/progetto_registratori/dataset/Phoenicurus_ochruros/BlackRedstart17Feb2009TafraouteMorocco.mp3"
+    input_path = "/home/ste/Code/progetto_registratori/dataset/Phoenicurus_ochruros/codirossospazzacamino7.mp3"
     output_path = "processed_bird_calls.wav"
     
     num_calls = remove_silence_between_calls(
