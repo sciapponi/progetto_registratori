@@ -8,7 +8,7 @@ import sys
 from time import sleep
 import signal
 
-base_path = "/media/ste/New Volume/dataset/"
+base_path = "/media/ste/Birds/dataset/"
 base_url = "https://xeno-canto.org/api/2/recordings"
 stop_requested = False
 

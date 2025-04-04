@@ -2,3 +2,6 @@ dataset
 *.wav
 __pycache__
 audio
+processed_calls
+output_segments
+venv
