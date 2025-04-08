@@ -5,3 +5,6 @@ audio
 processed_calls
 output_segments
 venv
+downloaded_audio
+ESC-50-master
+processed

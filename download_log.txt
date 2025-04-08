@@ -1,0 +1,8 @@
+2025-04-07 14:55:00,622 - INFO - --- Starting Download Script ---
+2025-04-07 14:55:00,622 - INFO - Input CSV: rura_without_birds.csv
+2025-04-07 14:55:00,622 - INFO - Output Directory: downloaded_audio_rural_no_birds
+2025-04-07 14:55:00,622 - INFO - Audio Format: mp3, Quality: 192k
+2025-04-07 14:55:00,622 - INFO - Skip Existing Files: True
+2025-04-07 14:55:00,622 - INFO - Stop on Error: False
+2025-04-07 14:55:00,622 - INFO - ---------------------------------
+2025-04-07 14:55:00,622 - ERROR - CSV file not found: rura_without_birds.csv
